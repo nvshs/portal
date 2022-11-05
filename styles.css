@@ -40,23 +40,4 @@ a {
         --background: #f5f6f7;
         --foreground: #101010;
     }
-    body {
-        font-family: 'Ubuntu', sans-serif;
-        color: var(--foreground);
-        background-color: var(--background);
-    }
-    a {
-        color: var(--foreground);
-    }
-    .web, .ad {
-        display: inline-block;
-        width: 400px;
-        box-shadow: 0 0 10px var(--foreground);
-        margin-right: 10px;
-        margin-bottom: 10px;
-        border-radius: 10px;
-    }
-    .web-text {
-        padding-left: 1em;
-    }
 }

@@ -20,8 +20,8 @@
 function footer() {
     let element = document.createElement('div');
 
-    element.style = `font-family: sans-serif; font-size: 14px; height: 65px; width: 175px; border: 4px solid rgb(15, 15, 15); background: rgb(240, 240, 240); position: absolute; top: 20x; left: 20px; border-radius: 10px; color: rgb(0, 0, 0); text-align: center;`;
-    element.innerHTML = `<a href="https://nvaha.github.io" target="_blank">nvshs.github.io</a>`;
+    element.style = `font-family: sans-serif; font-size: 20px; width: 175px; background: #101010; color: #f5f6f7; position: absolute; border-radius: 10px; text-align: center`;
+    element.innerHTML = `<p>Find more at <a style="color: #f5f6f7;" href="https://nvshs.github.io/" target="_blank">nvshs.github.io</a></p>`;
     document.body.appendChild(element);
     
     var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;

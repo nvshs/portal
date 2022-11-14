@@ -17,12 +17,5 @@ function code() {
         }
     });
     })();
-    let element = document.createElement('div');
-
-    element.style = `font-family: sans-serif; font-size: 20px; width: 175px; background: #101010; color: #f5f6f7; position: absolute; border-radius: 10px; text-align: center`;
-    element.innerHTML = `<p>Find more at <a style="color: #f5f6f7;" href="https://nvshs.github.io/" target="_blank">nvshs.github.io</a></p>`;
-    document.body.appendChild(element);
-    function footer() {
-    };
 }
 code();

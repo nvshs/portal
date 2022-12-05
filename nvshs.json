@@ -1,0 +1,114 @@
+{
+	"Psiphon 3":{
+		"link":"./psiphon3.exe",
+		"info":{
+			"blocked":false,
+			"class":"VPN",
+			"risk":true
+		}
+	},
+	"Blooket Hacks":{
+		"link":"./blooket",
+		"info":{
+			"blocked":false,
+			"class":"Hacks",
+			"risk":true
+		}
+	},
+	"EduPerfect Hacks":{
+		"link":"./eduperfect",
+		"info":{
+			"blocked":false,
+			"class":"Hacks",
+			"risk":true
+		}
+	},
+	"ABC iView":{
+		"link":"https://iview.abc.net.au/",
+		"info":{
+			"blocked":false,
+			"class":"Video Streaming",
+			"risk":false
+		}
+	},
+	"OvO":{
+		"link":"https://dedragames.com/games/ovo/1.4.4/",
+		"info":{
+			"blocked":false,
+			"class":"Video Game",
+			"risk":false
+		}
+	},
+	"TGB95":{
+		"link":"https://tbg95.github.io/",
+		"info":{
+			"blocked":false,
+			"class":"Video Game Hub",
+			"risk":false
+		}
+	},
+	"EmulatorOS":{
+		"link":"https://emulatoros.github.io/",
+		"info":{
+			"blocked":false,
+			"class":"Video Game Hub",
+			"risk":false
+		}
+	},
+	"Mountain658":{
+		"link":"https://mountain658.github.io/",
+		"info":{
+			"blocked":false,
+			"class":"Video Game Hub",
+			"risk":false
+		}
+	},
+	"SandSpiel":{
+		"link":"https://sandspiel.club/",
+		"info":{
+			"blocked":false,
+			"class":"Video Game",
+			"risk":false
+		}
+	},
+	"SandSpiel Studio":{
+		"link":"https://studio.sandspiel.club/",
+		"info":{
+			"blocked":false,
+			"class":"Video Game",
+			"risk":false
+		}
+	},
+	"Orb Farm":{
+		"link":"https://orb.farm/",
+		"info":{
+			"blocked":false,
+			"class":"Video Game",
+			"risk":false
+		}
+	},
+	"Totally Science":{
+		"link":"https://totallyscience.github.io/index.html",
+		"info":{
+			"blocked":true,
+			"class":"Video Game Hub",
+			"risk":false
+		}
+	},
+	"Cool Math Games":{
+		"link":"https://coolmathgames.com/",
+		"info":{
+			"blocked":true,
+			"class":"Video Game Hub",
+			"risk":false
+		}
+	},
+	"Scratch":{
+		"link":"https://scratch.mit.edu/",
+		"info":{
+			"blocked":false,
+			"class":"Video Game Hub",
+			"risk":false
+		}
+	}
+}

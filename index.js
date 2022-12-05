@@ -1,4 +1,4 @@
-const list = require("./nvshs.json")
+import * as list from "./sites.json"
 
 try{
     for(let i = 0; i < list.lenght; i++) {

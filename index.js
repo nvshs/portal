@@ -27,8 +27,7 @@ try{
         `;
     
         document.getElementById('content').appendChild(div);
-
-        setTimeout(250, function(){console.log("Loaded: " + list[i])})
+        setTimeout(500, function(){console.log("Loaded: " + list[i])})
     }
 } catch(err) {
     console.error(`Error when loading sites:\n${err}`)

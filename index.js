@@ -1,6 +1,8 @@
-import * as list from "./sites.json"
-
-try{
+fetch("./sites.json")
+.then(response => {
+   return response.json();
+})
+.then(list => 
     for(let i = 0; i < list.lenght; i++) {
         const div = document.createElement('div');
         const status = "";
@@ -29,6 +31,4 @@ try{
         document.getElementById('content').appendChild(div);
         setTimeout(500, function(){console.log("Loaded: " + list[i])})
     }
-} catch(err) {
-    console.error(`Error when loading sites:\n${err}`)
 }

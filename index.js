@@ -1,6 +1,7 @@
 fetch("./sites.json")
 .then(response => {return response.json();})
 .then(data => 
+    data = JSON.parse(data);
     data.forEach(site => {
         const div = document.createElement('div');
         const status = "";

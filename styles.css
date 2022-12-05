@@ -34,10 +34,3 @@ a {
 .web-text {
     padding-left: 1em;
 }
-
-@media (prefers-color-scheme: light) {
-    :root {
-        --background: #f5f6f7;
-        --foreground: #101010;
-    }
-}

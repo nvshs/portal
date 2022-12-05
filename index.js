@@ -1,4 +1,4 @@
-import * as list from "./sites.json"
+const list = fetch("./sites.json")
 
 try{
     for(let i = 0; i < list.lenght; i++) {
